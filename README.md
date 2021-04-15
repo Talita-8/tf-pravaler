@@ -21,6 +21,9 @@ A equipe utilizou a ferramenta Trello para fazer todo o planejamento e organiz
 
 <p align="center"><img src = "./pravaler/src/images/trello.png" height='550' widht='550'></p>
 
+Para o armazenamento dos dados, foi necessário a criação de uma API.
+Você pode conferir a API de usuários e instituições desenvolvida por nós aqui: https://github.com/Talita-8/Pravaler-API
+
 ### 3. Protótipo :computer:
 A seguir, está o protótipo inicial do site. Um fluxograma da criação das funcionalidades do site e um fluxo dos processos para criação do projeto.
 <div>
@@ -45,6 +48,8 @@ Para a realização deste projeto
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+
+
 
 ### 5. Desenvolvedoras  :camera_flash:
 Para conhecer um pouco mais do trabalho de cada uma das desenvolvedoras desse projeto, clique nos seus nomes a seguir:
